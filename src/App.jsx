@@ -3,6 +3,7 @@ import { Sidebar } from "./components/Sidebar";
 import { Post } from "./components/Post";
 
 
+
 import styles from './App.module.css';
 
 import "./global.css";
@@ -18,6 +19,7 @@ function App() {
         <main>
           <Post />
           <Post />
+
         </main>
       </div>
     </div>
